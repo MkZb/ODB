@@ -1,2 +1,2 @@
 # ODB
-Project for Organisation of Database
+Project for Organisation of Databases
