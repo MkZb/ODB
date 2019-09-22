@@ -10,7 +10,7 @@
 
 3. Програмне забезпечення та сервіси з підтримкою методу експертного оцінювання
 ***
-
+Порівняльна таблиця (в процесі створення):https://docs.google.com/spreadsheets/d/1ZrlJZM98PelSp3-cLIxwxVdsVbjUPz626Ph7yal0byE/edit#gid=0
 
 
 
