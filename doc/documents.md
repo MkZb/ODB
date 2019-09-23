@@ -332,7 +332,7 @@ Survio також пропонує платні послуги преміум-к
 - Підтримка цілодобово
 - Безпека (Шифрування 2048-bit SSL, щоденні back-up'ы)1488
 
-### 3.1. Порівняльна таблиця програм та сервісів
+### 3.2. Порівняльна таблиця програм та сервісів
 ***
 |  Система | **[Google forms](https://www.google.com/intl/ru_ua/forms/about/)** | **[ОСА](https://www.oca.com.ua/)** | **[Survey Monkey](https://www.surveymonkey.com/)** | **[Survio](https://www.survio.com/ru/)** |
 | :---: | :---: | :---: | :---: | :---: |
