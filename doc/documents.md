@@ -119,7 +119,7 @@ https://lh3.googleusercontent.com/OTGbBPKMKFqhJTa6E3UKm2JnoNAIcJl2kth93jf-OOftGi
  
  **Дата створення:** 2012
  
- **Веб-сайт:** [SurveyMonkey](Survio.com)
+ **Веб-сайт:** [Survio](Survio.com)
  
  ![Оформлення проекту](
  https://static.crozdesk.com/web_app_library/screenshots/images/000/003/213/screenshot/survio-screenshot-2.png?1559230511)
