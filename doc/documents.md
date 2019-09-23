@@ -125,5 +125,5 @@
 2. https://ru.wikipedia.org/wiki/Экспертное_оценивание#Этапы_экспертного_оценивания
 3. https://sites.google.com/site/alinapolchenkoo/home/vidi-pitan-testiv
 4. https://stud.com.ua/63580/marketing/pitannya_anketi
-5. [https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%BD%D0%B8%D1%85_%D0%BE%D1%86%D1%96%D0%BD%D0%BE%D0%BA](Вікіпедія: Метод експертних оцінок)
+5. [Вікіпедія: Метод експертних оцінок](https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%BD%D0%B8%D1%85_%D0%BE%D1%86%D1%96%D0%BD%D0%BE%D0%BA)
 6. https://pidruchniki.com/19650323/ekonomika/metodi_ekspertnih_otsinok
