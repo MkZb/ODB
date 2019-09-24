@@ -397,9 +397,8 @@ Survio також пропонує платні послуги преміум-к
 1. https://students-library.com/ua/library/read/14948-etapy-ekspertnogo-ocenivania
 2. https://ru.wikipedia.org/wiki/Экспертное_оценивание#Этапы_экспертного_оценивания
 3. https://sites.google.com/site/alinapolchenkoo/home/vidi-pitan-testiv
-4. https://stud.com.ua/63580/marketing/pitannya_anketi
-5. [Вікіпедія: Метод експертних оцінок](https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%BD%D0%B8%D1%85_%D0%BE%D1%86%D1%96%D0%BD%D0%BE%D0%BA)
-6. https://pidruchniki.com/19650323/ekonomika/metodi_ekspertnih_otsinok
-7. <https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0>
-8. [А. Н. Павлов, Б. В. Соколов "Методы обработки экспертной информации"](http://window.edu.ru/resource/904/44904/files/Pavlovexpert.pdf)
+4. [Вікіпедія: Метод експертних оцінок](https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%BD%D0%B8%D1%85_%D0%BE%D1%86%D1%96%D0%BD%D0%BE%D0%BA)
+5. https://pidruchniki.com/19650323/ekonomika/metodi_ekspertnih_otsinok
+6. <https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0>
+7. [А. Н. Павлов, Б. В. Соколов "Методы обработки экспертной информации"](http://window.edu.ru/resource/904/44904/files/Pavlovexpert.pdf)
 ***
