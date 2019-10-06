@@ -20,5 +20,5 @@
 2.adsg
 3.asdg
 **Операційне середовище:**
-1.Microsoft Windows
-2.Ubuntu Linux
+
+Операційні системами на базі Microsft Windows чи Linux
