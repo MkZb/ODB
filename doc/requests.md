@@ -19,6 +19,7 @@
 1.asdfg
 2.adsg
 3.asdg
+
 **Операційне середовище:**
 
 Операційні системами на базі Microsft Windows чи Linux
