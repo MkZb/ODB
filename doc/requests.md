@@ -24,4 +24,4 @@
 
 **Операційне середовище:**
 
-Операційні системами на базі Microsft Windows чи Linux
+ОС на базі Microsft Windows чи Linux
