@@ -9,7 +9,22 @@
 	1.2 [Контекст](https://github.com/MkZb/ODB/blob/master/doc/requests.md#12-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82)
 	
 2. Короткий огляд продукту
-3. Ділові правила і приписи
+3. [Сценарії](https://github.com/MkZb/ODB/blob/master/doc/requests.md#3-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D1%97)
+
+	3.1 [Сценарій реєстрації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/requests.md#31-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D0%B9-%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%97-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D0%B0)
+	
+	3.2 [Сценарій аутентифікації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/requests.md#32-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D0%B9-%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%97-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D0%B0)
+	
+	3.3 [Сценарій входу користувача](https://github.com/MkZb/ODB/blob/master/doc/requests.md#33-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D0%B9-%D0%B2%D1%85%D0%BE%D0%B4%D1%83-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D0%B0)
+	
+	3.4 [Сценарій створення нового опитування](https://github.com/MkZb/ODB/blob/master/doc/requests.md#34-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D0%B9-%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
+	
+	3.5 [Сценарій участі в опитуванні](https://github.com/MkZb/ODB/blob/master/doc/requests.md#35-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D0%B9-%D1%83%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%B2-%D0%BE%D0%BF%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%96)
+	
+	3.6 [Сценарій редагування існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/requests.md#36-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%96%D1%81%D0%BD%D1%83%D1%8E%D1%87%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
+	
+	3.7 [Сценарій видалення існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/requests.md#37-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D0%B9-%D0%B2%D0%B8%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F-%D1%96%D1%81%D0%BD%D1%83%D1%8E%D1%87%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
+	
 4. Функціональність
 
 5. [Практичність](https://github.com/MkZb/ODB/blob/master/doc/requests.md#5-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%D1%81%D1%82%D1%8C)
@@ -51,13 +66,13 @@
 ***
 ## 3. Сценарії
 
-### 3.1 Сценарій реєстрації нового користувача
-### 3.2 Сценарій аутентифікації нового користувача
-### 3.3 Сценарій входу користувача
-### 3.4 Сценарій створення нового опитування
-### 3.5 Сценарій участі в опитуванні
-### 3.6 Сценарій редагування існуючого опитування
-### 3.7 Сценарій видалення існуючого опитування
+### 3.1 [Сценарій реєстрації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/registration.md)
+### 3.2 [Сценарій аутентифікації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/authentification.md)
+### 3.3 [Сценарій входу користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/login.md)
+### 3.4 [Сценарій створення нового опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollcreation.md)
+### 3.5 [Сценарій участі в опитуванні](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollanswering.md)
+### 3.6 [Сценарій редагування існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollediting.md)
+### 3.7 [Сценарій видалення існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/polldeletion.md)
 
 ***
 ## 5. Практичність
