@@ -9,12 +9,10 @@
 5. Практичність
 6. Надійність
 7. [Технічні правила і обмеження](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#7-технічні-правила-і-обмеження)
+       7.1 [Базове програмне забезпечнення](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#71-базове-програмне-забезпечнення)
+       7.2 [Операційне середовище](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#72-операційне-середовище) 
+       7.3 [Конфігурація програмного забепеченн](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#73-конфігурація-програмного-забепечення)
 
-       [Базове програмне забезпечнення](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#71-базове-програмне-забезпечнення)
-        
-        7.2 [Операційне середовище](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#72-операційне-середовище)
-        7.3 [Конфігурація програмного забепеченн](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#73-конфігурація-програмного-забепечення)
-  
 8. [Вимоги до комплектації](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#8-вимоги-до-комлектації)
 9. Вимоги до документації
 10. Тривалість проекту
