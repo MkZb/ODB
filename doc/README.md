@@ -1,4 +1,4 @@
-# Докумнетація проекту
+# Документація проекту
 
 [Загальні положення](https://github.com/MkZb/ODB/blob/master/doc/documents.md)
 
