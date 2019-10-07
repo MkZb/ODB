@@ -10,7 +10,7 @@
 6. Надійність
 7. [Технічні правила і обмеження](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#7-технічні-правила-і-обмеження)
 
-  7.1 [Базове програмне забезпечнення](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#71-базове-програмне-забезпечненн)
+  7.1 [Базове програмне забезпечнення](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#71-базове-програмне-забезпечнення)
   
   7.2 [Операційне середовище](https://github.com/MkZb/ODB/blob/Moroz/doc/requests.md#73-конфігурація-програмного-забепечення)
   
