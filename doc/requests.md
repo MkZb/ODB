@@ -2,12 +2,22 @@
 ***
 ## Зміст
 
-1. Вступ
+1. [Вступ](https://github.com/MkZb/ODB/blob/master/doc/requests.md#1-%D0%B2%D1%81%D1%82%D1%83%D0%BF)
 
+	1.1 [Цілі](https://github.com/MkZb/ODB/blob/master/doc/requests.md#11--%D1%86%D1%96%D0%BB%D1%96)
+	
+	1.2 [Контекст](https://github.com/MkZb/ODB/blob/master/doc/requests.md#12-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82)
+	
 2. Короткий огляд продукту
 3. Ділові правила і приписи
 4. Функціональність
-5. Практичність
+
+5. [Практичність](https://github.com/MkZb/ODB/blob/master/doc/requests.md#5-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%D1%81%D1%82%D1%8C)
+
+	5.1 [Стандартизація](https://github.com/MkZb/ODB/blob/master/doc/requests.md#51-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D1%96%D1%8F)
+	
+	5.2 [Локалізація](https://github.com/MkZb/ODB/blob/master/doc/requests.md#52-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F)
+	
 6. Надійність
 7. Технічні правила і обмеження
 8. Вимоги до комплектації
@@ -23,7 +33,8 @@
 
 	9.5 [Шаблон HTML-сторінки](https://github.com/MkZb/ODB/blob/master/doc/requests.md#95-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-html-%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8)
 
-10. Тривалість проекту
+10. [Тривалість проекту](https://github.com/MkZb/ODB/blob/master/doc/requests.md#10-%D1%82%D1%80%D0%B8%D0%B2%D0%B0%D0%BB%D1%96%D1%81%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%83)
+
 11. Зміст робіт
 ***
 ## 1. Вступ
