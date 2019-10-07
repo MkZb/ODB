@@ -79,8 +79,8 @@
 ## 3. Сценарії
 
 ### 3.1 [Сценарій реєстрації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/registration.md)
-### 3.2 [Сценарій аутентифікації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/authentification.md)
-### 3.3 [Сценарій входу користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/login.md)
+### 3.2 [Сценарій входу користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/login.md)
+### 3.3 [Сценарій аутентифікації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/authentification.md)
 ### 3.4 [Сценарій створення нового опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollcreation.md)
 ### 3.5 [Сценарій участі в опитуванні](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollanswering.md)
 ### 3.6 [Сценарій редагування існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollediting.md)
