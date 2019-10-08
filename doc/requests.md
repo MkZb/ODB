@@ -84,6 +84,8 @@
 ***
 ## 3. Сценарії
 
+У даному розділі описані всі можливі взаємодії учасників у рамках проекту.
+
 ### 3.1 [Сценарій реєстрації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/registration.md)
 ### 3.2 [Сценарій входу користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/login.md)
 ### 3.3 [Сценарій аутентифікації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/authentification.md)
