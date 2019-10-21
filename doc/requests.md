@@ -25,8 +25,7 @@
 	3.6 [Сценарій редагування існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/requests.md#36-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%96%D1%81%D0%BD%D1%83%D1%8E%D1%87%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
 	
 	3.7 [Сценарій видалення існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/requests.md#37-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D0%B9-%D0%B2%D0%B8%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F-%D1%96%D1%81%D0%BD%D1%83%D1%8E%D1%87%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D0%B8%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
-	
-	3.8 [Сценарій запрошення користувача для участі в опитуванні](https://github.com/MkZb/ODB/blob/master/doc/usecases/sending_invitation.md#%D0%B7%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D1%97%D0%B2)
+	3.8 [Сценарій надсилання запрошення користувачу для участі в опитуванні]()
 	
 4. [Функціональність](https://github.com/MkZb/ODB/blob/master/doc/requests.md#4-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%96%D1%81%D1%82%D1%8C)
 
@@ -93,6 +92,7 @@
 ### 3.5 [Сценарій участі в опитуванні](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollanswering.md)
 ### 3.6 [Сценарій редагування існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollediting.md)
 ### 3.7 [Сценарій видалення існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/polldeletion.md)
+### 3.8 [Сценарій запрошення користувача для участі в опитуванні](https://github.com/MkZb/ODB/blob/master/doc/usecases/sending_invitation.md)
 
 ***
 ## 4. Функціональність
