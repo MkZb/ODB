@@ -18,4 +18,4 @@
 - Виключні ситуації:
 	- Користувач відхилив запрошення.
 
-![Acception](https://imgur.com/a/rsfHVqs)
+![Acception](https://i.imgur.com/9XOl4Yo.png)
