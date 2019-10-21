@@ -1,3 +1,3 @@
 ## Загальна діаграма usecases
 
-https://imgur.com/3a703hW
+![Diagram](https://i.imgur.com/3a703hW.png)
