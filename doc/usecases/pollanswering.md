@@ -25,4 +25,4 @@
 	
 	8. Система надає користувачу результати опитування.
 	
-![PollAnswer](https://imgur.com/HvIUkS2)
+![PollAnswer](https://i.imgur.com/mJlvJoJ.png)
