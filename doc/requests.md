@@ -24,17 +24,17 @@
 	
 4. [Функціональність](https://github.com/MkZb/ODB/blob/master/doc/requests.md#4-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%96%D1%81%D1%82%D1%8C)
 
-	4.1 [Можливості «Менеджер»](https://github.com/MkZb/ODB/blob/master/doc/requests.md#41-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)
+	4.1 [Можливості «Менеджер»](https://github.com/MkZb/ODB/blob/master/doc/requests.md#41-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80)
 	
-	4.2 [Можливості «Користувач»](https://github.com/MkZb/ODB/blob/master/doc/requests.md#42-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87)
+	4.2 [Можливості «Користувач»](https://github.com/MkZb/ODB/blob/master/doc/requests.md#42-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87)
 	
-	4.3 [Можливості «Експерт»]()
+	4.3 [Можливості «Експерт»](https://github.com/MkZb/ODB/blob/master/doc/requests.md#43-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82)
 	
-	4.4 [Можливості «Аналітик»]()
+	4.4 [Можливості «Аналітик»](https://github.com/MkZb/ODB/blob/master/doc/requests.md#44-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D0%BA)
 	
-	4.5 [Можливості «Адміністратор»]()
+	4.5 [Можливості «Адміністратор»](https://github.com/MkZb/ODB/blob/master/doc/requests.md#45-%D0%BC%D0%BE%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%96-%D0%B0%D0%B4%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80)
 	
-	4.6 [Діаграма функціональності]()
+	4.6 [Діаграма функціональності](https://github.com/MkZb/ODB/blob/master/doc/requests.md#46-%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96)
 
 5. [Практичність](https://github.com/MkZb/ODB/blob/master/doc/requests.md#5-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%D1%81%D1%82%D1%8C)
 
