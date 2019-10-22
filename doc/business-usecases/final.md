@@ -25,4 +25,4 @@
 	
 	6. Менеджер передає статистику замовнику.
 
-![Registration](https://imgur.com/undefined.png)
+![Registration](https://imgur.com/W0EPI0D.png)
