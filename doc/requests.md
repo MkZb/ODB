@@ -88,15 +88,11 @@
 
 У даному розділі описані всі можливі взаємодії учасників у рамках проекту.
 
-### 3.1 [Сценарій реєстрації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/registration.md)
-### 3.2 [Сценарій входу користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/login.md)
-### 3.3 [Сценарій аутентифікації нового користувача](https://github.com/MkZb/ODB/blob/master/doc/usecases/authentification.md)
-### 3.4 [Сценарій створення нового опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollcreation.md)
-### 3.5 [Сценарій участі в опитуванні](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollanswering.md)
-### 3.6 [Сценарій редагування існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/pollediting.md)
-### 3.7 [Сценарій видалення існуючого опитування](https://github.com/MkZb/ODB/blob/master/doc/usecases/polldeletion.md)
-### 3.8 [Сценарій надсилання запрошення користувачу для участі в опитуванні](https://github.com/MkZb/ODB/blob/master/doc/usecases/sending_invitation.md)
-### 3.9 [Сценарій прийняття запрошення користувачем для участі в опитуванні](https://github.com/MkZb/ODB/blob/master/doc/usecases/accepting_invitation.md)
+### 3.1 [Сценарій запрошення експертів](https://github.com/MkZb/ODB/blob/master/doc/business-usecases/invite.md)
+### 3.2 [Сценарій збору результатів](https://github.com/MkZb/ODB/blob/master/doc/business-usecases/collect.md)
+### 3.3 [Сценарій створення опитування](https://github.com/MkZb/ODB/blob/master/doc/business-usecases/createpoll.md)
+### 3.4 [Сценарій дослідження результатів опитування](https://github.com/MkZb/ODB/blob/master/doc/business-usecases/analyse.md)
+### 3.5 [Сценарій корректування результатів](https://github.com/MkZb/ODB/blob/master/doc/business-usecases/correct.md)
 
 ***
 ## 4. Функціональність
