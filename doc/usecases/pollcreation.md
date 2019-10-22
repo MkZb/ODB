@@ -1,4 +1,4 @@
-# [Загальний список сценаріїв](https://github.com/MkZb/ODB/blob/master/doc/requests.md#3-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D1%96%D1%97)
+# [Загальний список usecases](https://github.com/MkZb/ODB/tree/master/doc/usecases)
 ## Сценарій створення нового опитування
 - Учасники: аутентифікований користувач, система.
 
