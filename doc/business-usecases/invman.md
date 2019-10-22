@@ -25,4 +25,5 @@
 	5. Експерти приймають запрошення.
 	
 	6. Експерти, що погодились, отримують доступ до опитування.
-![Registration](https://imgur.com/n4e4M5O)
+
+![Registration](https://imgur.com/n4e4M5O.png)
